@@ -1,0 +1,35 @@
+ 
+        *{
+            margin: 0;
+            padding: 0;
+        }
+
+        div{
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center; 
+            background-image: linear-gradient(black,rgb(0, 0, 0));
+  
+        }
+
+        p{
+           height: 100px;
+           width: 600px;
+           background-image: linear-gradient(tomato,blue);
+           color: white;
+           line-height: 100px;
+           text-align: center;
+           font-size: 60px;
+           box-shadow: 1px 1px 0px #000,2px 2px 0px #000,3px 3px 0px  #000,4px 4px 0px #000, 5px 5px 0px #000,6px 6px 0px #000;
+
+
+
+        }
+
+        h1{
+            color: white;
+            margin-bottom:30px ;
+        }
+   
